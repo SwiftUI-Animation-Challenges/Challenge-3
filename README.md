@@ -2,7 +2,7 @@
 
 Welcome to the third SwiftUI Animation Challenge where we hand out animation challenges that everyone can participate in and solve.
 
-This week's challenge is inspired by the AirDrop animation when you send a friend something:
+This week's challenge is inspired by a flame animation that can be found in the Duolingo app:
 
 <p align="center">
  <img src="https://github.com/SwiftUI-Animation-Challenges/Challenge-3/blob/main/challenge-3-video.mov"/>
