@@ -5,7 +5,7 @@ Welcome to the third SwiftUI Animation Challenge where we hand out animation cha
 This week's challenge is inspired by the AirDrop animation when you send a friend something:
 
 <p align="center">
- <img src="https://github.com/SwiftUI-Animation-Challenges/Challenge-3/blob/main/challenge-3-video.mp4"/>
+ <img src="https://github.com/SwiftUI-Animation-Challenges/Challenge-3/blob/main/challenge-3-video.mov"/>
 </p>
 
 ## 🤔 How does it work?
