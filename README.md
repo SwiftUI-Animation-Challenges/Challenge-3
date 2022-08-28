@@ -4,9 +4,7 @@ Welcome to the third SwiftUI Animation Challenge where we hand out animation cha
 
 This week's challenge is inspired by a flame animation that can be found in the Duolingo app:
 
-<p align="center">
- <img src="https://github.com/SwiftUI-Animation-Challenges/Challenge-3/blob/main/challenge-3-video.mov"/>
-</p>
+https://user-images.githubusercontent.com/12433593/187083615-4ce84b6e-d89d-4665-9c5b-c3120bccca7e.mp4
 
 ## 🤔 How does it work?
 
