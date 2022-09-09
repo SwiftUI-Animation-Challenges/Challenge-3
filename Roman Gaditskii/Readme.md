@@ -1,5 +1,6 @@
 
 Hi! Here's my submission.
+I made it on my iPad in Swift Playgrounds app.
 
 Though it's not pure SwiftUI and contains some Metal code, it is integrated into SwiftUI view and uses declarative approach for dispatching shaders.
 I use my own open source package 'MetalBuilder' for this.
